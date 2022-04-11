@@ -34,6 +34,6 @@ van a ver por aqui! :bowtie: :nerd_face:
 
 mis stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matias199130)](https://github.com/anuraghazra/github-readme-stats&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matias199130)](https://github.com/anuraghazra/github-readme-stats&bg_color=171c28)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias199130&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
