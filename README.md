@@ -29,11 +29,11 @@ van a ver por aqui! :bowtie: :nerd_face:
 👨‍ Mi Linkedin: https://www.linkedin.com/in/matias-r-romero/<br/>
 🧑‍💻Trabajos:<br/>
 "calculadora web" https://esqueleto-de-proyecto-vite.vercel.app/ <br/> 
-"proyecto individual con api dogs" https://pi-dogs-two.vercel.app/ 
+"proyecto individual con api dogs" https://pi-dogs-two.vercel.app/ <br/>
 ✉️ Email: matiasromero20121991@gmail.com
 
 mis stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matias199130)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias199130&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
