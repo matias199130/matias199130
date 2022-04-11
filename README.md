@@ -25,7 +25,7 @@ de desarrollo en el cual me encuentro por <br/>
 iniciar un proyecto grupal que pronto <br/> 
 van a ver por aqui! :bowtie: :nerd_face:
 
- :eyes:  mi portfolio: :fire:en construccion.:fire:
+ :eyes:  mi portfolio: :fire:en construccion.:fire:<br/>
 👨‍ mi Linkedin:
 
 mis stats:
