@@ -1,4 +1,4 @@
-![banner-github](https://user-images.githubusercontent.com/89623331/162742829-cff5914b-3359-482f-bf01-748f529c69c6.png width="100px")
+![banner-github](https://user-images.githubusercontent.com/89623331/162742829-cff5914b-3359-482f-bf01-748f529c69c6.png )
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
