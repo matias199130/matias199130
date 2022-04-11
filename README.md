@@ -25,6 +25,11 @@ de desarrollo en el cual me encuentro por <br/>
 iniciar un proyecto grupal que pronto <br/> 
 van a ver por aqui! :bowtie: :nerd_face:
 
+-
+-
+-
+-
+-
 
 
 
