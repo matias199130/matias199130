@@ -23,6 +23,7 @@ van a ver por aqui! :bowtie: :nerd_face:
 "proyecto individual con api dogs" https://pi-dogs-two.vercel.app/ <br/>
 ✉️ Email: matiasromero20121991@gmail.com
 <br/>
+-
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -33,8 +34,9 @@ van a ver por aqui! :bowtie: :nerd_face:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+-
 mis stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matias199130)](https://github.com/anuraghazra/github-readme-stats&bg_color=171c28)
-
+-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias199130&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
