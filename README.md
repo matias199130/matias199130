@@ -4,7 +4,7 @@
 
 
 <br/>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="120" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 mi nombre es Matias, actualmente estoy aprendiendo en el<br/> 
 mundo desarrollo web todo el contenido que tiene y me  <br/>
 gustaria compartirles mis aprendizajes, todos mis <br/> 
