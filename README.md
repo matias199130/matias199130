@@ -12,7 +12,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+mi nombre es Matias, actualmente estoy aprendiendo en el mundo desarrollo web todo el contenido que tiene y me gustaria compartirles mis apredn
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matias199130&show_icons=true&locale=en&layout=compact" alt="matiasromero" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matias199130)](https://github.com/anuraghazra/github-readme-stats)
