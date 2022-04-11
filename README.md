@@ -13,6 +13,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 mi nombre es Matias, actualmente estoy aprendiendo en el<br/> 
 mundo desarrollo web todo el contenido que tiene y me  <br/>
 gustaria compartirles mis aprendizajes, todos mis <br/> 
@@ -23,7 +24,7 @@ por lo que actualmente estoy en la ultima etapa<br/>
 de desarrollo en el cual me encuentro por <br/>
 iniciar un proyecto grupal que pronto <br/> 
 van a ver por aqui! :bowtie: :nerd_face:
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matias199130&show_icons=true&locale=en&layout=compact" alt="matiasromero" />
 
