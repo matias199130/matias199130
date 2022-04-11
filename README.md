@@ -27,7 +27,9 @@ van a ver por aqui! :bowtie: :nerd_face:
 
  :eyes:  Mi Portfolio: :fire:en construccion.:fire:<br/>
 👨‍ Mi Linkedin: https://www.linkedin.com/in/matias-r-romero/<br/>
-🧑‍💻Trabajos:
+🧑‍💻Trabajos:<br/>
+"calculadora web" https://esqueleto-de-proyecto-vite.vercel.app/ <br/> 
+"proyecto individual con api dogs" https://pi-dogs-two.vercel.app/ 
 
 mis stats:
 
