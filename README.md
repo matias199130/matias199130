@@ -15,7 +15,7 @@ por lo que actualmente estoy en la ultima etapa<br/>
 de desarrollo en el cual me encuentro por <br/>
 iniciar un proyecto grupal que pronto <br/> 
 van a ver por aqui! :bowtie: :nerd_face:
-
+<br/><br/><br/>
  :eyes:  Mi Portfolio: :fire:en construccion.:fire:<br/>
 👨‍ Mi Linkedin: https://www.linkedin.com/in/matias-r-romero/<br/>
 🧑‍💻Trabajos:<br/>
